@@ -9,7 +9,7 @@ This is a list of InfoSec resources and tools intended for cybersecurity profess
 
 3. [The Art of Hacking](https://github.com/The-Art-of-Hacking/h4cker) - This GitHub repository has been created to provide supplemental material to several books, video courses, and live training created by Omar Santos and other co-authors. It provides over 7,000 references, scripts, tools, code, and other resources that help offensive and defensive security professionals learn and develop new skills. The all-about-it reference. It has resources related to everything. However there's no particular path outlined. See this only if you know what you need and have enough patience to find it.
 
-4. [Roppers Academy](https://www.hoppersroppers.org/) - "This is the only site on the internet that walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals." The perfect place to begin at. If you want to start out in this field or if you are a beginner, then beign with their introductory course. 
+4. [Roppers Academy](https://www.hoppersroppers.org/) - "This is the only site on the internet that walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals." The perfect place to begin at. If you want to start out in this field or if you are a beginner, then begin with their introductory course. 
 (This was such a good site that I have mentioned it separately even after it has been listed in the above mentioned repositories.)
 
 
