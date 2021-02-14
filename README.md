@@ -12,6 +12,8 @@ This is a list of InfoSec resources and tools intended for cybersecurity profess
 4. [Roppers Academy](https://www.hoppersroppers.org/) - "This is the only site on the internet that walks a complete beginner all the way through the process of developing a strong foundation in the fundamentals." The perfect place to begin at. If you want to start out in this field or if you are a beginner, then begin with their introductory course. 
 (This was such a good site that I have mentioned it separately even after it has been listed in the above mentioned repositories.)
 
+## Courses
+Beginners should head over to the [roadmap](https://www.hoppersroppers.org/roadmap/) provided by [Roppers Academy](https://www.hoppersroppers.org/). For courses related to any other topic or skill, please contact us directly. We have a plethora of courses available which cannot be uploaded online due to sheer volume but can be shared on case by case basis.
 
 ## License
 
